@@ -9,7 +9,7 @@
 <br />
  *** 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=osaidhamza7&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Osaid Hamza's Languages/Frameworks" width = 400 />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=osaidhamza7&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "OsaidHamza7's Languages/Frameworks" width = 400 />
  
  *** 
  
