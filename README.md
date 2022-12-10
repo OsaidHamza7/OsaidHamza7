@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osaid Hamza</h1>
 <h3 align="center">A passionate developer from Palestine</h3>
-<h3 alian="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108472343/206869946-6322eda0-b5cc-49a4-8ab2-59e5e0ea2c2e.png)"
+<h3 alian="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108472343/206869962-45782eee-0cf1-4fed-8a14-226363292dbc.png)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osaidhamza7&label=Profile%20views&color=0e75b6&style=flat" alt="osaidhamza7" /> </p>
 
 - ⚡ Fun fact **I am funny😎**
