@@ -1,21 +1,63 @@
-<h1 align="center">Hi 👋, I'm Osaid Hamza</h1>
-<h3 align="center">A passionate developer from Palestine</h3>
-<h3 alian="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108472343/206869962-45782eee-0cf1-4fed-8a14-226363292dbc.png)"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osaidhamza7&label=Profile%20views&color=0e75b6&style=flat" alt="osaidhamza7" /> </p>
+<h1>About Me 📌</h1>
 
-- ⚡ Fun fact **I am funny😎**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/osaid.o.hamzah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osaid.o.hamzah" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/code777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="code777" height="30" width="40" /></a>
+- 👋 Hi, I’m Eyab Ghafre
+- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
+- 💻 I’m Currently Learning Full-Stack Web Development
+- 🎓 Computer Engineer Student @ Birzeit University
+- 📫 How to Reach Me eyab.m.g@gmail.com
+<!---
+Eyab0/Eyab0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<br /> 
+<h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
+ 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br />
+<h2 align="center"> Quick Overview 📈</h2>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=eyab0&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Eyab0's Languages/Frameworks" width = 400 />
+ *** 
+ 
+ <details align="center">
+<summary><h2>My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32'></h2></summary>
+<table>
+  <thead>
+ </p>
+<center>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=eyab0&count_private=true&theme=dark&hide_border=true" alt = "Eyab0's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=eyab0&theme=dark&hide_border=true" alt = "Eyab0's Rating" width = 400 >
+  </center>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osaidhamza7&show_icons=true&locale=en&layout=compact" alt="osaidhamza7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osaidhamza7&show_icons=true&locale=en" alt="osaidhamza7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osaidhamza7&" alt="osaidhamza7" /></p>
+<p align = "center">
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyab0&theme=monokai" alt = "Eyab0's profile Summary" width = 750 >
+  </center>
+</p>
+<br />
+</table>
+</details>
+ 
+ *** 
+ 
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/eyab0/count.svg"></img>
+</div>
+<br /><br />
+<h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2> 
+<p align="center">
+  <a href = "mailto:eyab.m.g@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://bit.ly/3kzvIFf"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+  <a href = "https://bit.ly/371iRUx"><img src = "https://img.shields.io/badge/-Hackerrank-BA94C?style=for-the-badge&logo=HackerRank&logoColor=white&color=black" height = 30></a>
+ <a href = "https://bit.ly/3y6FCoM"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height = 30></a>
+  <a href = "https://bit.ly/3OMs87s"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height = 30></a>
+  <a href = "https://bit.ly/2UqT6Kt"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height = 30></a>
+  
+ 
+ 
+</p>
+<br />
+<h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
+<br />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
