@@ -1,5 +1,6 @@
 <h1>About Me 📌</h1>
-
+![header](![image](https://user-images.githubusercontent.com/108472343/206871212-6024466c-ab48-406c-8276-7b511cf59ef3.png)
+)
 - 👋 Hi, I’m Osaid Hamza
 - 🎓 Computer Engineer Student @ Birzeit University
 
