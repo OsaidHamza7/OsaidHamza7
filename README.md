@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osaid Hamza</h1>
 <h3 align="center">A passionate developer from Palestine</h3>
-
+<h3 alian="right" alt="coding" width="400" src="https://64.media.tumblr.com/30790d1638e9a53e5595583847c93b1b/2a5fc61e7c37374c-08/s540x810/d520ebea1e23b0ebee83bf2d1d6bfa69624c6c02.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osaidhamza7&label=Profile%20views&color=0e75b6&style=flat" alt="osaidhamza7" /> </p>
 
 - ⚡ Fun fact **I am funny😎**
