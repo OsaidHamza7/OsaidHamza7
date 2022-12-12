@@ -7,8 +7,7 @@
  
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br />
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osaidhamza7&layout=compact&show_icons=true&count_private=true&locale=en&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" width = 400 />
+
  
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
