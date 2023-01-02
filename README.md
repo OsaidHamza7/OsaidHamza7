@@ -9,14 +9,5 @@
 <br />
 
 
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/osaidhamza7/count.svg"></img>
-</div>
-<br /><br />
-<h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2> 
-<p align="center">
- <a href = "https://codeforces.com/profile/Code777"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height = 30></a>
-  
-</p>
+
 
