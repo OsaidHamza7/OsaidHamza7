@@ -1,6 +1,6 @@
-<h1>About Me 📌</h1>
-<h3> ⁕ 👋 Hi, I’m Osaid Hamza</h3>
-<h3> ⁕ 🎓 I am studying Computer Engineering at Birzeit University</h3>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif)" width="100"/>
+</div>
 
 <br /> 
 <h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
