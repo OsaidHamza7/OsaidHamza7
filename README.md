@@ -1,13 +1,21 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif)" width="100"/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" width="600" height="300"/>
 </div>
 
-<br /> 
-<h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
- 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br />
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### About Me :
+
+👋 Hi, I’m Osaid Hamza
+
+🎓 I am studying Computer Engineering @ Birzeit University.
+
+📫 You can reach Me through osaidhamza6@gmail.com
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsaidHamza7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
