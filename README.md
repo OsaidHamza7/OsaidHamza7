@@ -7,8 +7,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Osaid Hamza.
-- 🎓 I am studying Computer Engineering @ Birzeit University.
-
+- 🎓 I am studying Computer Engineering @ Birzeit University.Full-Stack Web Development,with AI and NLP.
 - 📫 Reach Me through osaidhamza6@gmail.com.
 <br /> 
 
